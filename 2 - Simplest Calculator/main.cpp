@@ -15,7 +15,6 @@ int main() {
     std::cin >> value2;
 
     // Create Variables
-
     float addition = value1 + value2;
     float subtraction = value1 - value2;
     float multiplication = value1 * value2;
