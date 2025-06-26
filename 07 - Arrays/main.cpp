@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Learning how to use arrays, this one is very simple
+
 int main() {
     // Creates a int array of 3 numbers, for simulation, i put it as the "lucky numbers"
     int luckyNumbers[] = {10, 20, 30};

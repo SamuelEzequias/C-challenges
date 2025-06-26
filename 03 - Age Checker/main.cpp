@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Verify if you are over 18 years old
+
 int main() {
     // Creates the "age" variable
     int age;
