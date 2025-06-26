@@ -1,5 +1,7 @@
 #include <iostream>
 
+// It's a simple calculator where you choose two numbers and a operator
+
 int main() {
     // Create variables for values
     float value1, value2;
