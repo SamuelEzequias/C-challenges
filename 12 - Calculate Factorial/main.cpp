@@ -36,3 +36,5 @@ int main () {
     std::cout << "The result of the factorial is: " << factorial << std::endl;
     return 0;
 }
+
+// Note: Actually, it's was pretty challenging to do
